@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\bin\Debug\Projeto BuscaTec.exe.config
+C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\bin\Debug\Projeto BuscaTec.exe
+C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\bin\Debug\Projeto BuscaTec.pdb
+C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto BuscaTec.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto BuscaTec.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto_BuscaTec.Form1.resources
+C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto_BuscaTec.Properties.Resources.resources
+C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto BuscaTec.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto BuscaTec.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto BuscaTec.exe
+C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto BuscaTec.pdb
+C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto_BuscaTec.Login.resources
