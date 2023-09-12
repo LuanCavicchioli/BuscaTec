@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace Projeto_BuscaTec
 {
@@ -29,7 +30,7 @@ namespace Projeto_BuscaTec
         }
 
 
-     
+
 
         private void btnEntrar_Click(object sender, EventArgs e)
         {
@@ -38,9 +39,9 @@ namespace Projeto_BuscaTec
 
             if (AutenticarUsuario(email, senha))
             {
-  
+
                 MessageBox.Show("Login bem-sucedido!");
- 
+
             }
             else
             {
@@ -67,10 +68,22 @@ namespace Projeto_BuscaTec
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Form1 form1 = new Form1();
+            Empresa empresa = new Empresa();
             this.Hide();
-            form1.ShowDialog();
+            empresa.ShowDialog();
             this.Close();
+        }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBox1.Checked)
+            {
+                txtSenha.PasswordChar = '\0';
+            }
+            else
+            {
+                txtSenha.PasswordChar = '*';
+            }
         }
     }
 }

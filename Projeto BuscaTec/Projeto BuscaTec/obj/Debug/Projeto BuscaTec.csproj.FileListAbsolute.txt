@@ -10,3 +10,5 @@ C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto B
 C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto BuscaTec.exe
 C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto BuscaTec.pdb
 C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto_BuscaTec.Login.resources
+C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto_BuscaTec.Empresa.resources
+C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto_BuscaTec.CadastroEmpresa.resources
